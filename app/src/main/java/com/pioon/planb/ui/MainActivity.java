@@ -1,6 +1,8 @@
-package com.pioon.planb;
+package com.pioon.planb.ui;
 
 import android.os.Bundle;
+
+import com.pioon.planb.R;
 
 import androidx.appcompat.app.AppCompatActivity;
 
